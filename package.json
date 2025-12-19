@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@clerk/backend": "^2.27.1",
     "@clerk/nuxt": "^1.13.8",
     "@nuxtjs/tailwindcss": "6.14.0",
     "nuxt": "^4.2.2",
